@@ -10,7 +10,7 @@ Soru 1: Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 Soru 2: Big-O gösterimini yazınız.
 
-O(n^2)
+O(n^2) Insertion sort'ta input arttıkça çalışma zamanı input'un karesi şeklinde artıyor.
 
 Soru 3: Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
